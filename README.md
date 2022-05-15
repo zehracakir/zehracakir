@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zehra-%c3%a7ak%c4%b1r-625350204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zehra-%c3%a7ak%c4%b1r-625350204" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zehra-çakır-625350204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehra-çakır-625350204" height="30" width="40" /></a>
 <a href="https://instagram.com/_zehrackr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zehrackr_" height="30" width="40" /></a>
 </p>
 
