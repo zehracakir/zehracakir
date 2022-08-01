@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zehra</h1>
-<h3 align="center">I'm studying computer engineering in Suleyman Demirel University 2|4</h3>
+<h3 align="center">I'm studying computer engineering in Suleyman Demirel University 3|4</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zehracakir" alt="zehrackr" /></a> </p>
 
