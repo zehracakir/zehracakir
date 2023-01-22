@@ -11,14 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=zehracakir" height="140" alt="languages graph"  />
 </div>
 
-###
-
 <p align="left">🌱 I’m currently learning ReactJS, NodeJS, ExpressJS</p>
-
-###
-
-<br clear="both">
-
 <h4 align="left">Connect with me:</h4>
 
 ###
@@ -66,11 +59,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zehracakir.zehracakir&left_text=Profile Views"  />
+<img src="https://komarev.com/ghpvc/?username=YusufDagdeviren&&style=flat-square" align="center" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/zehracakir/zehracakir/blob/output/snake.svg" alt="Snake animation" />
-
-###
