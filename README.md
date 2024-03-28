@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=zehracakir" height="140" alt="languages graph"  />
 </div>
 
-<p align="left">🌱 I’m currently learning ReactJS, NodeJS, ExpressJS</p>
+<p align="left">🌱 I’m currently learning ASP.Net</p>
 <h4 align="left">Connect with me:</h4>
 
 ###
