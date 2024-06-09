@@ -5,25 +5,19 @@
 <p align="center">I'm studying computer engineering in Suleyman Demirel University 4|4</p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=zehracakir" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=zehracakir" height="140" alt="languages graph"  />
-</div>
-
 <p align="left">🌱 I’m currently learning ASP.Net</p>
 <h4 align="left">Connect with me:</h4>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/zehra-%C3%A7ak%C4%B1r-625350204/" target="_blank">
+  <a href="https://www.linkedin.com/in/zehra-çakır-625350204/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://instagram.com/_zehrackr_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discordapp.com/users/Zehra%20%C3%87ak%C4%B1r#3566" target="_blank">
+  <a href="https://discordapp.com/users/zehracakir" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.hackerrank.com/cakirzehra312" target="_blank">
