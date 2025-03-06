@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zehra</h1>
+<p>I am a Computer Engineering graduate and a Junior Software Developer. I have experience in IVR systems, DevOps, and software development. I am proficient in C#, .NET, Java, and JavaScript. Additionally, I have knowledge of Docker, Kubernetes, and Jenkins, which I use to improve system performance and user experience.</p>
 <h4 align="left">Connect with me:</h4>
-
-
 <div align="left">
   <a href="https://www.linkedin.com/in/zehra-çakır-625350204/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
